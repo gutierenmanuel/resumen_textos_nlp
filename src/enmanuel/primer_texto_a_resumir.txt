@@ -11,3 +11,5 @@ En cuanto a su clasificación, tradicionalmente se divide a la inteligencia arti
 Algunas de las inteligencias artificiales más conocidas y utilizadas en la actualidad alrededor del mundo incluyen inteligencia artificial en el campo de la salud, asistentes virtuales como Alexa, el asistente de Google o Siri, traductores automáticos como el traductor de Google y DeepL, sistemas de recomendación como el de la plataforma digital de YouTube, motores de ajedrez y otros juegos como Stockfish y AlphaZero, chatbots como ChatGPT, creadores de arte de inteligencia artificial como Midjourney, Dall-e, Leonardo y Stable Diffusion, e incluso la conducción de vehículos autónomos como Tesla Autopilot.7​
 
 Asimismo la inteligencia artificial se está desarrollando en la plataforma digital cada vez más, evolucionando y creando nuevas herramientas, como la plataforma laboral que existe desde el año 2023 llamada SIVIUM, una herramienta por la cual una persona postula en forma automatizada a todas las ofertas laborales de todos los portales de trabajo, sin necesidad de estar revisando cada oferta laboral que se presente y enviar su CV uno por uno. 
+
+cambio de prueba
